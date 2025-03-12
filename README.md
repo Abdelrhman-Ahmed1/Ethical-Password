@@ -1,4 +1,5 @@
 # Ethical Password Tool
+![لقطة شاشة 2025-03-12 214428](https://github.com/user-attachments/assets/c1ac0019-44ab-46b0-b2a7-aebe5005b83c)
 
 ## Description
 This is an Ethical Password Tool that provides three main functionalities:
