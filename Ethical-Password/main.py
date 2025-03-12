@@ -1,3 +1,16 @@
+""" Ethical Password Tool 
+
+        Author: Abdelrhman Ahmed Abdelmonem
+        Department: Software Engineer
+        Date of Publish: 12/3/2025
+        LinkedIn: https://www.linkedin.com/in/%D9%90abdelrhman-ahmed-82609b296/
+        
+"""
+
+
+
+
+
 import socket, os, time, sys, re, random
 
 class Menu:
