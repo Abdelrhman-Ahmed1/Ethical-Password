@@ -50,5 +50,8 @@ This tool is strictly for educational and ethical security research purposes. Un
 This project is licensed under the MIT License.
 
 ## Author
-[Abdelrhman Ahmed - Software Engineer]
+- **Name:** Abdelrhman Ahmed
+- **Department:** Software Engineer
+- **Date of Publish:** 12/03/2025
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/%D9%90abdelrhman-ahmed-82609b296/)
 
